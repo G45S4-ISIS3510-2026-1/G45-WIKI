@@ -1,0 +1,219 @@
+[00:00.000 --> 00:06.240]  Bueno, primero que nada, gracias por tu tiempo. Estoy haciendo una investigación por un proyecto
+[00:06.240 --> 00:11.720]  del curso de desarrollo de aplicaciones móviles. La idea es que esta entrevistadora es más
+[00:11.720 --> 00:17.080]  o menos entre 10 y 15 minutos. No vamos a hablar nada personal. Y estamos explorando
+[00:17.080 --> 00:25.760]  cómo los estudiantes buscan y comparten conocimientos académicos. Entonces, primero, preséntate
+[00:25.760 --> 00:35.200]  qué estudias y en qué semestre estás. Hola, Carlos. Mi nombre es Alejandro Borja. Soy
+[00:35.200 --> 00:41.480]  de Cali. Estudió en la Universidad del Rosario, matemáticas aplicadas y ciencias de la computación.
+[00:41.480 --> 00:47.400]  Estoy cursando octavo semestre. Estoy haciendo pasantías y una materia. O sea, ya te vas
+[00:47.400 --> 00:54.600]  a agradar literalmente. Sí. Ah, vale, perfecto. ¿Qué tipo de materias o herramientas usas
+[00:54.600 --> 01:01.080]  más en tu carrera, ya sea para programación, diseño, matemáticas, en tu caso? Utilizó
+[01:01.080 --> 01:04.920]  mucho la inteligencia artificial, visión por computadora, a pesar de que fue una materia
+[01:04.920 --> 01:10.920]  que vi en la carrera. No la he utilizado bastante. He utilizado más algoritmos y estructura
+[01:10.920 --> 01:17.160]  de datos por el tema de la lógica para la programación. Me parece que brindó unas
+[01:17.160 --> 01:22.640]  muy buenas bases para la orquestración en este momento en la pasantía. Y si no programación
+[01:22.640 --> 01:28.400]  no tanto, estoy utilizando mucho la IA para el tema de generar interfaces para el usuario.
+[01:28.400 --> 01:35.800]  Vale, vale. Bueno, ahora cuéntanos sobre la última vez que tuviste que aprender una herramienta,
+[01:35.800 --> 01:43.560]  sea de software o un tema que pronto no tú eras tan claro. Si es por lenguaje de programación,
+[01:43.560 --> 01:48.840]  lo último que aprendí fue Java en una materia que se llama sistemas operativos, operating
+[01:48.840 --> 02:00.120]  systems pues. Mi profesor era Pedro Weigman y en su GitHub tenía un repositorio de UROs,
+[02:00.120 --> 02:05.460]  que es el sistema operativo que tenía montado en Java. Entonces, esto fue el último desafiante
+[02:05.460 --> 02:10.520]  que tuve en cuanto a lenguaje de programación. Lo último que aprendí en programación que
+[02:10.520 --> 02:18.360]  no fuera lenguaje fue aprender a utilizar redes neuronales con el tema de PyTorch y
+[02:18.360 --> 02:23.400]  redes neuronales para visión de computadora, entrenar modelos, ver cómo la gestión de
+[02:23.400 --> 02:29.640]  bases de datos para el training, para el validation y para el testing. Y sí, eso fue lo último
+[02:29.640 --> 02:36.280]  que aprendí en cuanto a Python. Lo hacía para bastante. ¿Y qué fue como lo primero
+[02:36.280 --> 02:46.800]  que hiciste para intentar resolverlo? Bueno, hablando de Java, me tocó meterme
+[02:46.800 --> 02:51.320]  a páginas web y tutoriales. Más que todo, desde primer semestre encontré una página
+[02:51.320 --> 02:57.200]  que se llama W3School, que ayuda muchísimo para entender los diferentes lenguajes de
+[02:57.200 --> 03:03.640]  programación, la sintaxis, las funciones, los ciclos, cómo funciona. Entonces, eso
+[03:03.640 --> 03:08.800]  me ayudó, pero también, como te comento, con las bases que tuve de primeros semestres,
+[03:08.800 --> 03:15.520]  me permitió ver el código y entenderlo sin mucho esfuerzo. Ya habían cosas muy específicas
+[03:15.520 --> 03:22.200]  que me tocaba buscar, pero es que hay algo referenciado a W3School. Sin embargo, uno
+[03:22.200 --> 03:27.960]  viendo un repositorio que está bien documentado con el que tenía mi profesor, se podía entender.
+[03:27.960 --> 03:35.800]  Y por el lado de PyTorch y estas redes neuronales, pues con la vía generativa, con los transformers
+[03:35.800 --> 03:45.520]  como Sonchad, JPT, Gemini y demás, me facilitó muchísimo entender y no tener que recordar
+[03:45.520 --> 03:52.640]  mucho los módulos que son utilizados por estas librerías, ya que el profesor intentaba
+[03:53.640 --> 03:59.240]  que entendieramos los conceptos y la teoría, más no memorizar la aplicación. La aplicación
+[03:59.240 --> 04:08.320]  en realidad se puede hacer mucho con IA. Al final, los modelos ya están. Yolo, que fue
+[04:08.320 --> 04:14.320]  el modelo que utilizamos para visión por computadora, ya tiene mucha documentación,
+[04:14.320 --> 04:20.400]  entonces JPT sabía bien cómo hacer las cosas y el código no es tan pertinente tocarlo,
+[04:20.400 --> 04:25.280]  sabiendo que al final el entrenar un modelo es a punta de máquina, no a punta de código,
+[04:25.280 --> 04:32.080]  entonces pues no fue tan desafiante en cuanto a código, por el tema de lo que te digo el
+[04:32.080 --> 04:39.320]  profesor. Intentaba que utilizáramos mucho IA generativa para utilizarlo como herramienta.
+[04:39.320 --> 04:45.360]  Claro, quedaba más fácil. ¿Y para esto debía intentar sacudir a alguien, a otra persona o
+[04:45.360 --> 04:55.080]  full documentación? Más que todo, documentación, busc, preguntarle a la IA, o sea, al final,
+[04:55.080 --> 05:01.000]  uno se utiliza la IA para hacerle preguntas tontas, pues quizá uno no avance mucho. El
+[05:01.000 --> 05:06.600]  tema ahí es también curioso, con el tema de a qué quiero llegar, cómo lo quiero hacer,
+[05:06.600 --> 05:11.280]  si no entiendo un paso, preguntar el por qué o preguntar de qué otra manera se puede hacer,
+[05:11.280 --> 05:16.920]  porque claro, uno tiene un proyecto en mente, pero uno quizá no sabe cómo hacerlo o no sabe
+[05:16.920 --> 05:23.960]  si uno puede en realidad llegar a lo que uno pretende, pero con un buen pipeline que organicé
+[05:23.960 --> 05:32.000]  con la IA desde el comienzo, pues logré entender a qué podía llegar, cómo lo podía hacer,
+[05:32.000 --> 05:38.840]  entonces pues fue más que todo preguntarle a la IA, sin embargo, pues el profesor nos brindó
+[05:39.000 --> 05:43.520]  diferentes clases en las que nos aportó herramientas para el desarrollo del proyecto,
+[05:43.520 --> 05:50.000]  o sea, nos mostró cómo funcionaba RoboFlow, que es una página web en la que uno puede encontrar
+[05:50.000 --> 05:57.480]  bases de datos que ya están, que ya tiene. Entonces, pues sí, nos ayudó el profesor con
+[05:57.480 --> 06:06.320]  diferentes cosas, pero más que todo, como te digo, fue IA generativa. ¿Cuánto tiempo te demoró
+[06:06.320 --> 06:13.320]  entenderlo o resolverlo finalmente? ¿Cuánto estimas? Para ser sincero, hay cosas que hoy no entiendo,
+[06:13.320 --> 06:22.720]  pero para el proyecto en realidad, como fue un trabajo de todo el semestre, pues no te voy a
+[06:22.720 --> 06:28.040]  decir que me demoré entendiendo todo el semestre porque sería una mentira, uno en realidad no destina
+[06:28.040 --> 06:35.280]  todo el tiempo que debería quizá las materias, entonces, pues o sea, de trabajo duro, suponiendo
+[06:35.280 --> 06:44.280]  que hubiera trabajado todos los días, ponle dos, dos, tres semanas, no fue mucho. ¿Y
+[06:44.280 --> 06:52.280]  pero entonces consideras que terminas aprendiendo solo o con ayuda? Pues sí consideramos que la IA es
+[06:52.280 --> 07:04.320]  ayuda con ayuda. ¿Y pero ayuda de pronto de otra persona? No, menos si no. ¿Y crees que esto se
+[07:04.320 --> 07:08.880]  veía que de pronto no tenías como el contacto o alguien que supiera sobre este tema? O sea que no
+[07:08.880 --> 07:14.200]  conocieras a alguien. Sí, pues en realidad en mi universidad, por lo menos, no sé cómo funcionan
+[07:14.200 --> 07:20.280]  las demás, nunca me lo he preguntado. Tenemos muchas monitorías a los comienzos de los semestres,
+[07:20.280 --> 07:26.920]  o sea, monitoría precalculada, el cálculo de, yo que sé, ingeniería de datos de diferentes materias,
+[07:26.920 --> 07:32.600]  pero yo entré aún más más adelante a ver en la carrera, pues menos monitorías hay, también por el
+[07:32.600 --> 07:36.360]  hecho de que quien te da la monitoría es un estudiante que está mucho más semestres arriba
+[07:36.360 --> 07:40.240]  tuyo o por lo menos está uno o dos semestres arriba tuyo, pero ya no estaba semestre uno con
+[07:40.240 --> 07:46.040]  las prácticas, pues ya no tiene tiempo para poder, para destinarle una monitoría, quizá un sábado,
+[07:46.040 --> 07:53.120]  pero es mucho más complicado y pues teniendo esto en cuenta, cada vez la oferta de monitorías
+[07:53.120 --> 07:58.200]  disminuye y pues no hay quien te diga una monitoría de una electiva de profundización como lo viene
+[07:58.200 --> 08:03.120]  siendo visión por computadora, por ejemplo, y operating systems, a pesar de que, a pesar de
+[08:03.120 --> 08:10.360]  ser de la malla general, pues también es una materia que se dedica muy muy tarde en la carrera,
+[08:10.360 --> 08:16.040]  por lo que no hay algún estudiante que sepa y tenga el tiempo para hacer alguna monitoría.
+[08:16.040 --> 08:22.800]  Sí, sí, sí. ¿Y cómo te hizo sentir esto? O sea, ¿qué sentiste durante este proceso de que no
+[08:22.800 --> 08:29.040]  conseguías a nadie, que fue más como por tu parte? Pues en realidad, por la idea generativa,
+[08:29.040 --> 08:35.320]  se me permite entender la mayoría de los temas, la mayoría de los conceptos, cómo funcionan,
+[08:35.320 --> 08:41.400]  cómo se van a utilizar, y pues también, tú utilizándolo como herramienta, uno aprende a
+[08:41.400 --> 08:46.400]  resolver con eso, ¿no? Claro. Entonces, pues no te voy a decir que me abrumé porque sería mentira,
+[08:46.400 --> 08:52.280]  no estaba acostumbrado igual a ir a las monitorías, yo a las monitorías más por el compromiso y por el
+[08:52.280 --> 08:59.160]  respeto al monitor, más que para aprender. Sin embargo, como son clases que son tan directas,
+[08:59.160 --> 09:04.360]  o sea, tú simplemente vas a visión a hacer tu proyecto y en la clase el profesor iba a
+[09:04.360 --> 09:10.320]  dictar algo de teoría, pues, pero tú veías cómo aportabas eso a tus cosas. No es como cálculo
+[09:10.320 --> 09:17.200]  que se aprende a punta de ejercicios, sino que es algo mucho más, mucho más aplicado y mucho
+[09:17.200 --> 09:22.760]  más específico, por lo que, pues, en realidad, utilizando la guía como herramienta me facilitó
+[09:22.760 --> 09:31.520]  bastante hacer lo que pretendía. Sin embargo, pues, en primer semestre tuve mi proyecto de
+[09:31.520 --> 09:35.920]  programación, el primer proyecto de programación, y en realidad la ayuda de un monitor cuando uno
+[09:35.920 --> 09:43.200]  está muy perdido en el tema, pues, es bastante necesaria. Claro. ¿Y qué consideras que fue lo
+[09:43.200 --> 09:50.640]  más frustrante o complicado de este proceso? Que el modelo no detectara balonis después de haber
+[09:50.640 --> 09:56.080]  esperado cuatro horas al que saliera el entrenamiento. Sí, sí, se me ha pasado.
+[09:56.080 --> 10:00.280]  Al entrenamiento, por fin. ¿O hubieras querido que algo hubiera sido diferente?
+[10:03.680 --> 10:04.280]  No.
+[10:04.280 --> 10:15.360]  Ok. Bueno, ya cambiando un poco de tema. ¿Sueles a llorar tus sesiones cuando tú manejas bien el
+[10:15.360 --> 10:25.560]  tema? Sí. ¿Cuándo has hecho esto? Pues, uno en la carrera se cruza con diferentes personas de
+[10:25.560 --> 10:32.680]  diferentes semestres. Muchas veces uno comparte con gente que se atrasó o que simplemente va un
+[10:32.680 --> 10:35.880]  semestre o juega durante una materia. Claro. Entonces, por estas amistades que he hecho a
+[10:35.880 --> 10:42.440]  largo de la carrera, me encuentro con personas que están viendo una o dos materias que yo ya he
+[10:42.440 --> 10:51.560]  pasado. Entonces, en este momento es cuando yo, pues, o ellos acuden a mí o yo busco aportar a que
+[10:51.560 --> 10:56.560]  no pasen por de pronto los hermosos errores que uno pasó. Claro. Entonces, este semestre, por ejemplo,
+[10:56.760 --> 11:03.520]  está viendo visión y yo les digo siempre que tengan un pipeline, o sea que tengan una curva
+[11:03.520 --> 11:09.040]  de aprendizaje plasmada desde el comienzo que quizá no va a ser perfecta, pero que tengan una
+[11:09.040 --> 11:14.160]  idea porque mucha gente arranca el proyecto sin saber cuánto le puede amorar cada cosa o qué tantas
+[11:14.160 --> 11:20.320]  cosas deben hacer. Y yo tuve compañeros los que de verdad no pudieron hacer el proyecto al final
+[11:20.320 --> 11:25.280]  del semestre. No tuvieron todo el tiempo. Mostraron los avances, mostraron resultados parciales,
+[11:25.280 --> 11:29.920]  pero no terminaron con un resultado concreto de lo que en realidad buscaban hacer por el tema de
+[11:29.920 --> 11:35.360]  que no tenían algo tan estructurado, tan claro. Entonces, procuro siempre ayudarlos con consejos
+[11:35.360 --> 11:41.200]  como estos. Vale. Entonces, sueles conectar con estas personas, pues, porque son de otros semestres,
+[11:41.200 --> 11:49.480]  básicamente. Sí. Ok. Y disfrutas ayudar a las personas o piensas que a veces se vuelve una carga?
+[11:49.480 --> 11:59.080]  Depende. La gente, o sea, seamos sinceros, la gente es conchuda. Sin embargo, pues mis amigos
+[11:59.080 --> 12:06.440]  o la gente cercana que yo tengo de distintos semestres en la carrera, pues no son conchudos,
+[12:06.440 --> 12:11.000]  son muy buenas gentes. Entonces, a veces hasta les da pena pedir ayuda, lo que sea. Yo procuro
+[12:11.000 --> 12:15.880]  siempre ayudarlos porque me parece chistoso reírse de las anécdotas o de los errores que uno comete,
+[12:16.040 --> 12:22.440]  sino no está para reírse de los errores. Sí. Entonces, esto es como lo que hace que sea difícil que
+[12:22.440 --> 12:28.120]  los estudiantes compartan conocimiento, ¿verdad? Sí, a mi vez es muy complicado por las diferentes
+[12:28.120 --> 12:37.160]  situaciones, diferentes contextos, diferentes tipos de aprendizajes. Ok. Ya siguiendo, ¿qué tan útil
+[12:37.160 --> 12:41.000]  sería para ti poder saber que estudiantes dominan qué temas dentro de la universidad?
+[12:45.960 --> 12:53.280]  Supongo que uno aprende quién estudiar para qué, no? O sea, los monitores que eran unos bárbaros
+[12:53.280 --> 12:59.800]  para cálculo, gente que de verdad se les quita el sombrero de lo buenos que son y pues aportaban
+[12:59.800 --> 13:05.160]  demasiado a las monitorías. En primer semestre, por lo menos es el monitor que yo creo que más nos
+[13:05.160 --> 13:12.200]  ha ayudado a pasar materias. El hombre nos decía cómo podíamos pensar las cosas para que
+[13:12.200 --> 13:19.480]  fuera más sencillo. Entonces nos hacía explicar si es mucho más dummy proof, por decirlo de alguna
+[13:19.480 --> 13:27.520]  manera. Ok, ok. Que nos permitió entender mucho más la materia, no la facilito demasiado, cuando
+[13:27.520 --> 13:32.160]  en realidad era así, no era tan complicada como quizás sonaba la teoría. Entonces sí, es muy bueno
+[13:32.160 --> 13:37.880]  encontrar a estas personas que tienen muy buenas habilidades para entender, pero más que entender,
+[13:37.880 --> 13:42.920]  compartir ese conocimiento con las demás personas. Vale, entonces consideras de que te serviría
+[13:42.920 --> 13:49.960]  bastante por contactar o agendar ayuda con ellos? Si fuera necesario, sí. O sea, hay materias en las
+[13:49.960 --> 13:56.440]  que uno siente que no ve la luz al final del túnel. Sí, si eso es verdad. Preferirías
+[13:56.440 --> 14:04.800]  tutoriales presenciales virtuales o ambas? Y por qué? Todo depende de la materia. Una materia como
+[14:04.800 --> 14:12.680]  cálculo me parece muy brava darla de forma virtual. Sin embargo, se puede hacer. Si es por
+[14:12.680 --> 14:20.120]  comodidad y pues ajustándose el contexto de cada persona, puede ser virtual o presencial. Para mí
+[14:20.120 --> 14:26.800]  debería ser de las dos. Ya por lo que te digo, digamos alguien que iba en Chía y está estudiando
+[14:26.800 --> 14:32.280]  en Los Andes, está estudiando en Rosario, está estudiando en la Central, tiene que pasarse dos
+[14:32.360 --> 14:40.000]  horas si no es más hasta su casa. Entonces. Pues el que pueda haber una monitoría virtual,
+[14:40.000 --> 14:47.400]  ya sea grabada o en videollamada, me parece que le facilita mucho su su contexto en su contexto ya,
+[14:47.400 --> 14:50.960]  pero si es alguien que es cerca de la universidad y tener la oportunidad de hacerlo presencial,
+[14:50.960 --> 14:55.760]  para mí a mí me parece que es mucho mejor presencial porque el tema muchas veces que
+[14:55.760 --> 15:00.160]  por pelo uno pregunta, pero el monitor estando ahí de frente puede ver la cara de perdido al
+[15:00.160 --> 15:07.000]  estudiante y eso de verdad es muy bueno muchas veces. Ese trato de tu a tu que se volvería más
+[15:07.000 --> 15:12.680]  personal cuando tú estás de frente con otra persona te permite mucho más entender, interactuar,
+[15:12.680 --> 15:19.120]  preventar y demás. Entonces a mí me parece que es mejor presencial, pero ajustándose a contextos
+[15:19.120 --> 15:23.520]  de gente que quizá le queda muy difícil transporte por el tema de los tiempos. Pues
+[15:23.520 --> 15:29.640]  también parecería chévere que fuera virtual. Ok, me gusta esa respuesta. Bueno, era como el
+[15:29.640 --> 15:34.320]  por qué estamos haciendo esta entrevista y te he hecho todas estas preguntas. Lo estoy haciendo
+[15:34.320 --> 15:38.600]  es porque estamos explorando pues una aplicación donde los estudiantes puedan publicar las habilidades
+[15:38.600 --> 15:44.120]  que han adquirido a lo largo de su carrera universitaria y pues que también otros puedan
+[15:44.120 --> 15:49.800]  buscar perfiles y agendar tutorías entre las partes. Entonces, ¿qué opinas de este día? ¿Qué te gusta?
+[15:52.040 --> 15:57.080]  O sea, si me pongo a pensar es como un LinkedIn pero más universitario que muestra el recorrido
+[15:57.080 --> 16:01.420]  que lleva la persona dentro de su carrera, es algo que te entiendo. Sí, algo así. Le das que
+[16:01.420 --> 16:07.640]  crean los conocimientos que tienen como yo me siento como por ejemplo en Python. Entonces
+[16:07.640 --> 16:11.560]  que para publicar esa información y que alguien que de pronto necesita ayuda en Python pueda
+[16:11.560 --> 16:22.760]  pues contactarlo y pedirle ayuda. Me parece chévere, pero me parecería mejor no hacerlo
+[16:22.760 --> 16:28.960]  de este modo porque de este modo, hasta donde te entiendo, los mismos estudiantes son los que
+[16:28.960 --> 16:36.600]  se proponen, o sea, como que se postulan, ¿cierto? Sí, sí. O entran todos dentro de la posición de
+[16:36.600 --> 16:43.000]  monitor, por decirlo así. No, habría persona de monitor como los conocimientos que tú tienes y
+[16:43.000 --> 16:51.480]  ya habría otra parte para buscar una persona que tenga sus conocimientos. Te entiendo. Ahora
+[16:51.480 --> 16:58.440]  la pregunta es, ¿hay algún tipo de review? O sea, yo siendo estudiante que pasó por tu monitoría,
+[16:58.440 --> 17:04.120]  ¿te podría calificar? Sí, sí puede ser un feature. También tocaría, haría una manera de hacer
+[17:04.120 --> 17:08.440]  validación para confirmar de que la persona efectivamente tenga ese conocimiento. Entonces
+[17:08.440 --> 17:14.680]  una manera puede ser los reviews. Me gusta esa idea. Ok, ok. Claro, el tema es que, lo que
+[17:14.680 --> 17:18.400]  digo, una cosa es entender, otra cosa es compartir el conocimiento. Hay gente que domina tanto el
+[17:18.400 --> 17:23.400]  tema que se le facilita muchísimo explicárselo a otra persona, pero una cosa es explicárselo a
+[17:23.400 --> 17:27.600]  alguien que sabe con la terminología correcta y otra cosa es explicárselo a alguien que no tiene
+[17:27.600 --> 17:32.840]  ni idea qué está viendo en ese momento. Ya esa habilidad me parece muy buena. Entonces lo que te
+[17:32.840 --> 17:39.880]  digo, si es en forma de feedback y si es en forma de que la persona está calificada por estudiantes
+[17:39.880 --> 17:45.960]  que ya hayan pasado por su monitoría, me parecería muy bueno por el tema de que puedes saber cómo
+[17:45.960 --> 17:51.760]  dicta la persona. Por ejemplo, yo tenía un profesor que nos daba una materia variable compleja.
+[17:51.760 --> 18:00.440]  El hombre era un duro ya, pero cuando el mandicta a la clase, yo tenía un compañero que aprendía
+[18:00.440 --> 18:06.480]  mucho más por ejemplos y por ejercicios. Este hombre era demasiado teórico. Yo sí le entendía,
+[18:06.480 --> 18:10.440]  pero amigo, hay veces no le entendía porque no podía imaginarse lo que estaba escribiendo ese
+[18:10.440 --> 18:18.440]  hombre en el tablero. Entonces sería chévere que de cierta forma categorizaran a los estudiantes
+[18:18.440 --> 18:24.000]  y pudieran también mostrarles, o sea, permitirle al estudiante que está buscando un monitor,
+[18:24.000 --> 18:30.280]  encontrar el monitor adecuado. Entonces, ¿cómo es lo que están buscando? Ejemplos, ejercicios,
+[18:30.280 --> 18:38.560]  teoría, sí, o sea, ese tipo de cosas. Sería chévere. Y lo que te digo, a mí hubo un estudiante
+[18:38.560 --> 18:45.200]  que me ayudó mucho en una materia por el tema de que nos logró domicrupiar una materia al punto
+[18:45.200 --> 18:52.320]  en el que todos le entendíamos algo que en la clase no había entendido nada. Por ese lado,
+[18:52.320 --> 18:56.560]  parecería chévere mucho más para semestres bajos, porque lo que te digo, más adelante yo creo que
+[18:56.560 --> 19:01.960]  uno ya debe tener las herramientas. Quien quita debe haber uno o dos personas que se puedan posturar
+[19:01.960 --> 19:07.920]  para eso, pero uno ya tiene muchas más herramientas para poder dar la pelea pues más adelante en los
+[19:07.920 --> 19:14.480]  semestres. Sí, sí, sí. Entonces, ¿consideras de qué usarías la aplicación? Y si sí, en qué
+[19:14.480 --> 19:21.760]  situaciones y en cuáles no. Yo personalmente no creo que la utilice porque me pasa mucho el tema
+[19:21.760 --> 19:27.240]  de que yo pienso que entiendo algo hasta que de verdad me doy cuenta que no la entendí. Ya. Pero
+[19:27.240 --> 19:31.700]  si me parece, de verdad, una muy buena herramienta. O sea, en algún momento de que yo quizá no
+[19:31.700 --> 19:38.260]  necesito un monitor continuo, pero necesito hacer alguna consulta de hey, viejo, me sucedió eso,
+[19:38.260 --> 19:43.340]  podemos de pronto. Me uso esto con un código de Python en la materia o un código de Java en la
+[19:43.340 --> 19:47.660]  materia de operating systems. Me puedes colaborar de pronto y que la persona haya pasado. Por eso
+[19:47.660 --> 19:53.100]  me parecería bastante bueno. De verdad que sí, para acudir para cosas también mucho más puntuales,
+[19:53.100 --> 19:58.100]  quizá no quizá no como una monitoría continua, porque también pues los horarios pueden cambiar,
+[19:58.100 --> 20:05.580]  teniendo en cuenta de que tenés que tenés que cuadrar entre las partes. Ajá, exacto,
+[20:05.580 --> 20:11.220]  entonces me parecería me parecería me parecería chévere. Y ya para cerrar,
+[20:11.220 --> 20:16.580]  ¿hay algo más importante sobre cómo aprendes o ayudas a otros que de pronto no hayamos tocado?
+[20:16.580 --> 20:29.380]  No sé, o sea, creo que muchas veces uno se hace una idea de materias o se hace alguna idea de las
+[20:29.380 --> 20:36.860]  cosas como están pasando sin algún contexto por algo nuevo. Me explico. Las que uno llega y uno
+[20:36.860 --> 20:41.420]  llega asustado porque le dijeron hombre, eso es dificilísimo, no vas a entender nada. Y puede
+[20:41.420 --> 20:47.460]  que sí, puede que sí le pasa a algunas personas, pero sería bueno también para enseñar cosas,
+[20:47.460 --> 20:56.340]  poner cierto tipo, no de requisitos, pero de must have para las personas, porque digamos uno
+[20:56.340 --> 21:00.460]  no puede entrar a cálculo uno sin haber visto precalculo o sin entender por lo menos precalculo
+[21:00.460 --> 21:08.140]  ya. Entonces sería chévere también para que estas personas y estos monitores no les toque
+[21:08.140 --> 21:14.320]  enseñarle a alguien, o sea no les toque reinventar la rueda que pongan, pongan dentro de las
+[21:14.320 --> 21:19.300]  características de la monitoría o de la clase que las personas deben entender ciertas cosas,
+[21:19.300 --> 21:25.100]  porque muchas veces seamos sinceros, nosotros estudiamos cosas con matemáticas. Si vos no aprendes
+[21:25.100 --> 21:31.460]  a sumar, nunca vas a aprender a multiplicar, entonces es el tema. Hay veces toca reforzar
+[21:31.460 --> 21:36.420]  las bases, pero pues no es el trabajo del monitor reforzarte una base que viene mal desde mucho antes.
+[21:36.420 --> 21:41.100]  También sería bueno que uno pudiera tener un diagnóstico, digamos yo quiero aprender
+[21:42.620 --> 21:46.780]  este semestre, la materia que estoy viendo es progresamiento de lenguaje natural ya,
+[21:46.780 --> 21:52.940]  entonces yo en este momento debo saber Python, ¿cierto? Pero entonces además de Python sería
+[21:52.940 --> 22:01.420]  como como le piden en los requisitos, pues no necesitas saber Python, necesitas saber un
+[22:01.420 --> 22:05.980]  poco de redes neuronales, necesitas saber de esto, de lo otro, para que cuando te hablen no
+[22:05.980 --> 22:11.100]  quedes en la nebulosa y les doy volver a explicarte todo eso, porque es pérdida de tiempo para el
+[22:11.100 --> 22:16.220]  monitor, es pérdida de plata y tiempo para el que está recibiendo la clase, es pérdida de
+[22:17.740 --> 22:22.540]  ¿de qué? De tiempo valioso que uno en realidad podría utilizar para lo que en realidad le
+[22:22.540 --> 22:33.260]  serviría una monitoría, ¿ya? Entonces más que una ayuda directa siento que es más como una
+[22:33.260 --> 22:42.420]  estructura para que la gente pueda aprender lo que quiera o lo que necesite, pero no esté perdiendo
+[22:42.420 --> 22:49.380]  el tiempo o haciendo perder el tiempo de otra persona, si el monitor va a enseñar sobre yo
+[22:49.580 --> 22:54.020]  ecuaciones diferenciales, pues el hombre no tendría por qué tener que estar enseñando te calculo dos,
+[22:54.020 --> 22:59.900]  ¿ya? Claro. Entonces mi comentario. Sí, porque hay que perder el tiempo para ambas partes.
+[22:59.900 --> 23:07.540]  Exacto. Vale, vale, vale. No Alejandro, muchísimas gracias por tu tiempo y más que eso por tan buenas
+[23:07.540 --> 23:13.060]  respuestas, gracias. Vale, no os puedo buscarme. Hasta luego.
+
