@@ -1,0 +1,131 @@
+**Interviewer:** Hello, I’m conducting research for a mobile application development course project. The conversation will last about ten to fifteen minutes. We won't discuss anything personal, and your answers will be anonymous. I am exploring a problem related to how students share knowledge with each other. May I take notes while we talk?
+
+**Respondent:** Yes.
+
+**Interviewer:** Great. What are you studying and what semester are you in?
+
+**Respondent:** I’m studying Chemistry in my seventh semester and Biology in my fifth.
+
+**Interviewer:** Okay. How comfortable do you feel seeking academic help within the university?
+
+**Respondent:** Very comfortable.
+
+**Interviewer:** Okay, and do you usually ask other classmates for help when you don’t understand a topic or a tool? Why or why not?
+
+**Respondent:** Uh, sometimes I do. Sometimes people are very blunt/rude and they don't give you the help you need, so... well, it de-de-depends on the person. And sometimes I do because that way things are understood better.
+
+**Interviewer:** Okay, great. Uh, tell me about the last time you needed to learn a tool, software, or topic that you didn't understand very well.
+
+**Respondent:** No, I don't remember. Do I have to remember?
+
+**Interviewer:** No, if you don't have one in mind, it’s fine.
+
+**Respondent:** Ah.
+
+**Interviewer:** I mean, asking about a moment where you had to ask for help.
+
+**Respondent:** Oh, well, the—the—the Quantum [Chemistry] one, which is called Mobaxterm. I struggled because it's a completely different language and because... I mean, there were things that didn't make sense; like codes that didn't make sense, well, according to the logic of, of asking the program to do certain things. And, and well, the information it returned was absolutely very long, so sometimes I wasn't clear on what I had to look for within that information.
+
+**Interviewer:** Okay, great. Thank you very much. And how easy or difficult was it to find help for that specific problem?
+
+**Respondent:** Uh, well, I mean, it was simple because it was with the teaching assistant (TA), but I was embarrassed to ask him at first, though later on I—
+
+**Interviewer:** And has it happened to you any other time where you struggled to find a classmate who knew how to help you?
+
+**Respondent:** Oh, yes. Uh, for Organic [Chemistry] III, I struggled to find people who could explain things to me, uh, and people to study with, because it's better to study that kind of stuff in a group.
+
+**Interviewer:** Of course, okay. So, I assume there have been situations where you've had to learn on your own because you simply didn't find support. So, how did you feel and what was perhaps the most complicated part?
+
+**Respondent:** Yes, I felt very overwhelmed because I still didn't understand anything. So, uh, I ran out of time, I still didn't understand anything, and I failed [the subject].
+
+**Interviewer:** Okay, and do you usually help other students who might be in a similar situation?
+
+**Respondent:** Uh, if I have the tools, I would guide them and tell them... I would explain what they need to know or what they don't understand. That would be it, I don't know what else.
+
+**Interviewer:** And do you enjoy this process?
+
+**Respondent:** Of explaining to someone else? Yes, very much.
+
+**Interviewer:** Okay, that’s good. If you had to describe the current dynamic of "everyone learning together," how would you summarize it?
+
+**Respondent:** What is that?
+
+**Interviewer:** One second. [noise] Well, no, let’s skip this question. It’s fine. Let's move on to...
+
+**Interviewer:** What would you say is the main barrier that prevents you from relying on other people to learn? It could be, say, bad attitudes, maybe you don't know who they are, or maybe you don't have time, or they don't have time. Which ones would you say?
+
+**Respondent:** Uh, people are... people are very rude when it comes to explaining. Uh, they might not explain well, they explain halfway, and for example, they get annoyed if you ask them things about the explanation they give you. Uh, sometimes they ignore you, they try to avoid it, so no—horrible.
+
+**Interviewer:** And does this happen only with classmates or also with TAs?
+
+**Respondent:** With classmates. Not with TAs, but sometimes it's hard to find a TA.
+
+**Interviewer:** Yes, of course, because they are very limited and not available for all subjects.
+
+**Respondent:** Uh-huh, exactly.
+
+**Interviewer:** Okay, I understand. And well, moving into it now, for you, do you think there is any viable solution that could facilitate this process? For you, what would that solution look like?
+
+**Respondent:** No, I don't know.
+
+**Interviewer:** Okay, no problem. I didn't expect you to know. So instead, how useful would it be for you to be able to see profiles of students who have specific skills? Say, that tool you mentioned or a subject you're looking for.
+
+**Respondent:** No, say it again.
+
+**Interviewer:** How convenient uh, or useful would it be for you to have a platform where you can see a whole list of people who are offering a teaching service like that or who simply know the subject and are willing to teach you?
+
+**Respondent:** Oh, I would be very interested.
+
+**Interviewer:** That’s good. And so, would you like, for example, to be able to schedule a tutoring session directly with someone from the University?
+
+**Respondent:** Uh, yes, or someone external. Someone who—I mean, I don't care.
+
+**Interviewer:** It doesn't matter, as long as they know—
+
+**Respondent:** Yes.
+
+**Interviewer:** What you need—
+
+**Respondent:** Yes.
+
+**Interviewer:** It’s not that important. Okay. In what cases would you use it and in what cases would you not use it?
+
+**Respondent:** I don't know, let's say. [laughs] Oh, I wouldn't use it... No, why wouldn't I use it?
+
+**Interviewer:** Okay, I understand. That's great! [laughs] Okay. If a platform existed that showed who knows what, volunteers, schedules, uh, yes, I mean, a list of people, like accessing tutors easily, what features would seem indispensable to you? I mean, when you enter the—
+
+**Respondent:** I didn't hear anything you said. [laughs]
+
+**Interviewer:** So, if a platform existed that showed who knows what topics, uh, volunteers, schedules—a platform like what we've talked about—what features would seem indispensable to you?
+
+**Respondent:** Schedules, uh, like complete specifications of what they know, so you can know if uh, what you don't understand—what you're looking for—is something that person has. Ah, I think that's it.
+
+**Interviewer:** Okay, yes, let's say you enter the, the application, say, on your phone, and what do you think would be the first thing...? I mean, a filter by subject, right? Or by topic.
+
+**Respondent:** Yes, the subject or a keyword.
+
+**Interviewer:** Yes, exactly. And okay, and anything else?
+
+**Respondent:** Oh, well, yes, let's say that what they claim to know has reliable backup. So, uh, that would be very important. Also, seeing the ratings from other people who have had the chance to receive tutoring from that person. Uh, that's it.
+
+**Interviewer:** Okay, great. So, the idea we are exploring is an app where students can post skills they have acquired at the university, and those who need help can explore these profiles and schedule peer-to-peer tutoring. Uh, is there anything about this idea that maybe doesn't suit you? Doesn't convince you?
+
+**Respondent:** Convince.
+
+**Interviewer:** Con. Is there anything then that doesn't, doesn't sound right to you?
+
+**Respondent:** No, it’s fine.
+
+**Interviewer:** Okay, but anything you would improve, no, regarding my proposal?
+
+**Respondent:** No, well I don't know, I mean—
+
+**Interviewer:** Okay.
+
+**Respondent:** I’d have to see it to—
+
+**Interviewer:** I understand. Uh, and is there any other tip that—moving away from the app a bit—you think is important regarding how you learn or how you can help others? Like that human touch, how can we translate that to a, a perhaps, an application?
+
+**Respondent:** No, well, it's mostly about willingness and having like, maybe that bit of pedagogical skill to have the patience to explain to someone else. Not just having the patience, but having the ability to make your words understandable. And I mean, yes, like that whole set of things.
+
+**Interviewer:** Okay, thank you very much. This has been very good, very good input. Until next time.
