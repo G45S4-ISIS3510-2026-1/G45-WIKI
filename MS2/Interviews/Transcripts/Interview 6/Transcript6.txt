@@ -1,0 +1,197 @@
+Speaker 1
+Hola, estoy haciendo una investigación para un proyecto de curso de desarrollo de aplicaciones móviles. La conversación durará unos diez a quince minutos. No hablamos nada personal y tus respuestas serán anónimas. Estoy explorando un problema relacionado con cómo los estudiantes comparten conocimiento entre ellos. ¿Puedo grabar notas mientras hablamos? 
+
+Speaker 2
+Sí. 
+
+Speaker 1
+Genial. ¿Qué estudias y en qué semestre vas? 
+
+Speaker 2
+Estudio Química en séptimo semestre y Biología en quinto. 
+
+Speaker 1
+Vale, ¿qué tan cómodo te sientes buscando ayuda académica dentro de la universidad? 
+
+Speaker 2
+Muy cómodo. 
+
+Speaker 1
+Vale, ¿y sueles pedir ayuda a otros compañeros cuando no entiendes un tema o herramienta? ¿Por qué sí o por qué no? 
+
+Speaker 2
+Eh, a veces sí. A veces son muy toscos y no te brindan la ayuda que necesitas y... pues, de-de-depende de las personas. Y a veces sí, porque así se entiende mejor. 
+
+Speaker 1
+Okey, genial. Eh, y cuéntame sobre la última vez que necesitaste aprender una herramienta, software o tema que no entendías muy bien. 
+
+Speaker 2
+No, no me acuerdo. ¿Tengo que acordarme? 
+
+Speaker 1
+No, si no tienes uno en mente, no pasa nada. 
+
+Speaker 2
+Ah. 
+
+Speaker 1
+O sea, de preguntar un momento donde hayas tenido que pedir ayuda. 
+
+Speaker 2
+Ah, pues el de, el de com-- el de Cuántica, que se llama Mobaxterm, me costaba porque es un lenguaje completamente distinto y porque... o sea, habían cosas que no tenían sentido, o sea, como códigos que no tenían sentido, pues, o sea, a la lógica como de, de pedirle al programa que hiciera ciertas cosas, y, y pues la información que retornaba era absolutamente muy larga, entonces como que a veces no tenía claridad de qué era lo que tenía que buscar dentro de esa información. 
+
+Speaker 1
+Okey, genial. Muchas gracias. ¿Y qué tan fácil o difícil fue encontrar ayuda para ese problema en específico? 
+
+Speaker 2
+Eh, pues, o sea, fue sencillo, porque fue con el monitor, pero me daba pena preguntarle al principio, ya después ya- 
+
+Speaker 1
+¿Y te ha pasado alguna otra vez donde te costara encontrar un compañero que supiera ayudarte? 
+
+Speaker 2
+Ah, sí. Eh, para Orgánica tres me costaba encontrar gente que me explicara, eh, y pues gente para poder estudiar, porque pues es mejor estudiar en grupo ese tipo de cosas. 
+
+Speaker 1
+Claro, okey. O sea, has-- supongo que han habido situaciones donde has tenido que aprender por tu cuenta porque simplemente no has encontrado el apoyo. Entonces, ¿cómo te sentiste y cuál fue de pronto la parte más complicada? 
+
+Speaker 2
+Sí, me sentí muy abrumada porque igual no entendía nada. Entonces, eh, pues me cogió el tiempo, no entendí igual nada y la perdí. 
+
+Speaker 1
+Vale, ¿y sueles tú ayudar a otros estudiantes que puedan estar en una situación similar? 
+
+Speaker 2
+Eh, si yo tengo las herramientas, pues yo los orientaría y les diría como... les explicaría como lo que necesitan saber o lo que no entienden. Eso sería, no sé qué más. 
+
+Speaker 1
+¿Y disfrutas este proceso? 
+
+Speaker 2
+¿De explicarle a alguien más? Sí, mucho. 
+
+Speaker 1
+Okey, qué bueno. Si tuvieras que describir la dinámica actual de "aprendamos entre todos", ¿cómo la resumirías? 
+
+Speaker 2
+¿Qué es eso? 
+
+Speaker 1
+Un segundo. [ruido] Bueno, no, saltemos esta pregunta. No pasa nada. Pasemos a que...
+
+Speaker 1
+¿Cuál dirías tú que es la principal barrera que evita que puedas apoyarte en otras personas para aprender? Pueden ser, digamos, malas actitudes, puede ser que no sepas quiénes son o que de pronto no, tú no tengas tiempo, ellos no tengan tiempo. ¿Cuáles dirías tú? 
+
+Speaker 2
+Eh, las personas son... las personas son muy groseras a la hora de explicar. Eh, puede que no te expliquen bien, te expliquen a medias y digamos, les molesta que les preguntes cosas sobre la explicación que te dan. Eh, a veces te ignoran, intentan como evadir eso, entonces no, horrible. 
+
+Speaker 1
+¿Y esto pasa solo con compañeros o también con monitores? 
+
+Speaker 2
+Con compañeros, con monitores no, pero pues a veces es difícil encontrar como un monitor. 
+
+Speaker 1
+Sí, claro, porque son muy reducidos y no para todas las materias. 
+
+Speaker 2
+Ajá, exacto. 
+
+Speaker 1
+Okey, entiendo. Y bueno, entonces entrando ahorita de pronto, para ti, ¿tú crees que hay alguna solución viable que pueda facilitar este proceso? Para ti, ¿cómo, cómo se vería esa solución? 
+
+Speaker 2
+No, no sé. 
+
+Speaker 1
+Vale, no pasa nada. No esperaba que supieras. Entonces ahora más bien, ¿qué tan útil sería para ti poder ver perfiles de estudiantes que tengan habilidades específicas? Digamos, esa herramienta que tú dijiste o una materia que estás buscando. 
+
+Speaker 2
+No, otra vez. 
+
+Speaker 1
+¿Qué tan conveniente eh, o útil sería para ti tener una plataforma donde puedas ver todo un listado de personas que están ofreciendo un servicio de enseñar así o que simplemente saben del tema y están dispuestos a enseñarte? 
+
+Speaker 2
+Ah, me interesaría mucho. 
+
+Speaker 1
+Qué bueno. Y entonces, ¿te gustaría, por ejemplo, poder agendar una tutoría directamente con alguien de la U? 
+
+Speaker 2
+Eh, sí, o alguien externo. Alguien que, o sea, no me importa. 
+
+Speaker 1
+No importa, con tal de que sepa- 
+
+Speaker 2
+Sí. 
+
+Speaker 1
+Lo que necesitas- 
+
+Speaker 2
+Sí. 
+
+Speaker 1
+No es tan importante. Vale. ¿En qué casos sí la usarías y en qué casos no la usarías? 
+
+Speaker 2
+No sé, digamos. [risas] Ah, no la usaría... No, ¿por qué no la usaría? 
+
+Speaker 1
+Vale, entiendo. ¡Qué bueno! [risas] Okey. Si existiera una plataforma que mostrara quién sabe qué, voluntarios, horarios, eh, sí, o sea, un listado de personas, como acceder a tutores de manera fácil, ¿qué características te parecerían indispensables? O sea, que tú entres a la- 
+
+Speaker 2
+No escuché nada lo que dijiste. [risas] 
+
+Speaker 1
+Entonces, si existiera una plataforma que mostrara quién sabe qué temas, eh, voluntarios, horarios, una plataforma de lo que hemos hablado, ¿qué características te parecerían indispensables? 
+
+Speaker 2
+Horarios, eh, como especificaciones completas de lo que saben, como para saber si, eh, lo que no entiendes, lo que estás buscando, pues lo tiene esa persona. Ah, yo creo que eso. 
+
+Speaker 1
+Okey, sí, digamos, tú entras a, a la aplicación, digamos, en tu celular y, ¿qué crees que sería lo primero que...? O sea, digamos, un filtro de la materia, ¿cierto? O del tema. 
+
+Speaker 2
+Sí, la materia o una palabra clave. 
+
+Speaker 1
+Sí, exacto. Y okey, ¿y alguna otra cosa? 
+
+Speaker 2
+Ah, bueno, sí, pues que digamos que lo que dice que sabe tenga un respaldo fidedigno. Entonces, eh, sería muy importante eso. También ver las calificaciones de las otras personas que han tenido la oportunidad de recibir alguna tutoría de esa persona. Eh, ya. 
+
+Speaker 1
+Vale, genial. Entonces, la idea que estamos explorando es una app donde los estudiantes puedan publicar sus habilidades que han adquirido en la universidad y quienes necesitan ayuda puedan explorar estos perfiles y agendar tutorías entre pares. Eh, ¿hay algo de esta idea que de pronto no te convenga? ¿No te convenza? 
+
+Speaker 2
+Convenza. 
+
+Speaker 1
+Con. ¿Hay algo entonces que no, no te suene? 
+
+Speaker 2
+No, está bien. 
+
+Speaker 1
+Vale, que pero ¿algo que mejorarías, no, de, de, de mi propuesta? 
+
+Speaker 2
+No, pues no sé, o sea- 
+
+Speaker 1
+Vale. 
+
+Speaker 2
+Tendría que verlo para- 
+
+Speaker 1
+Entiendo. Eh, ¿y hay algún otro tip que, ya alejándonos un poco de la aplicación, sino que creas que es importante sobre cómo aprendes o cómo puedes ayudar a otros? Como ese trato humano, ¿cómo podemos trasladarlo a un, a un, de pronto, una aplicación? 
+
+Speaker 2
+No, pues es más que todo como disposición y como tener como tal vez esa habilidad un poquito pedagógica de tener la paciencia, de explicarle a alguien más, no solo de tener la paciencia, sino de tener la habilidad de hacer que tus palabras sean entendibles. Y o sea, sí, como que todo ese conjunto de cosas. 
+
+Speaker 1
+Vale, muchas gracias. Esto ha sido muy bueno, muy buen input y hasta la próxima.
